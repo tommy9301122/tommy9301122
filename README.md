@@ -1,4 +1,4 @@
-![banner](GitHub README Banner.png)
+![banner](https://github.com/tommy9301122/tommy9301122/blob/main/GitHub%20README%20Banner.png)
 
 <!--
 **tommy9301122/tommy9301122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
